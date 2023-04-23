@@ -11,7 +11,7 @@ Face recognition (FR) is one the most widely known and used non-intrusive biomet
 
 The project required analyzing eight geodesic (surface) and eight 3D Euclidian distances between facial landmarks for four expressions: 'Neutral,' 'Angry,' 'Disgust,' and 'Happy.' These distances are measured on a face in the 'Neutral' expression and can be used to determine similarity with the same face in different expressions or with other faces in the dataset. Details of facial landmarks could be Ex-Outer eye corners or En- Inner eye corners, while distances could be Inner-canthal width En_L En_R or Outer-canthal width Ex_L Ex_R.
 
-** The function takes three input arguments: **
+**The function takes three input arguments:**
 
 > csvfile, the name of a CSV file containing data on individuals to be analyzed. The file contains an unspecified number of rows, with each row providing information on an individual's de-identified adult ID, displayed expression, distance number, geodesic distance, and 3D Euclidean distance. The first row of the file contains headers for these fields. The values in each row are strings for adult ID and expression, an integer for distance, and floats for the remaining values.
 
