@@ -3,7 +3,7 @@ Project was last updated on: 16 Sept 2022
 
 **This was a university project for a basic python unit.**
 
-I did not upload the csv files used to test this project. The code I used in this project received a grade of over 85%.
+I did not upload the csv files used to test this project. The code I used in this project received a grade of over 80%.
 
 ## Project Overview
 
