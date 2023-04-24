@@ -284,4 +284,3 @@ def cosine_similarity(op2lst1, op2lst2):
     except:
         return None
     return round(numerator / ((denom1 ** 0.5) * (denom2 ** 0.5)),4)
-print(main('TestData4.csv',('D8328','E4996')))
